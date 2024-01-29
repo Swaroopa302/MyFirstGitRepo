@@ -83,7 +83,7 @@ public class RegisterServlet extends HttpServlet {
 			e.printStackTrace();
 		}
 		
-		
+		System.out.println("Commiting");
 		
 	}
 
